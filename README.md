@@ -1,4 +1,4 @@
 # Ml-Practicals
 All the practical of ml 
 
-#1st practical 
+# 1st practical 
