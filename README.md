@@ -1,4 +1,6 @@
 # Ml-Practicals
 All the practical of ml 
 
-# 1st practical 
+i have already uploaded the Wholesale_customers_data.csv file but 
+For downloading Wholesale_customers_data.csv  click below 👇
+https://archive.ics.uci.edu/dataset/292/wholesale+customers
